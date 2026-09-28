@@ -2,7 +2,7 @@
 
 I'm, **Ishan Agrawal** 👩‍💻
 
-**Global AI Strategist** | **Generative AI Researcher** | **Open Source Contributor** | **Technical Writer** | **Generative AI, Data Science, Machine Learning, NLP, LLMOps, Power BI, MicroStrategy, SQL** | **Scholar 🏆**
+**Global AI Strategist** | **Generative AI Researcher** | **Open Source Contributor** | **Technical Writer** | **Generative AI, Data Science, Machine Learning, NLP, LLMOps, Power BI, MicroStrategy, SQL** | **Scholar 🏆** | 
 **Principal AI Architect | Agentic AI, LLM Engineering & Enterprise AI Platforms**
 
 13+ years in software and AI engineering. I design and ship production multi-agent systems, RAG pipelines, and evaluation/observability tooling.
